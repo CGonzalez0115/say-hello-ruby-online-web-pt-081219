@@ -1,3 +1,4 @@
+require_relative say_hello_spec.rb
 def say_hello(name)
   puts "Hello ("Kent Beck")!"
 end
